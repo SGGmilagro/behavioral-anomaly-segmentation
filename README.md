@@ -68,6 +68,16 @@ Python · scikit-learn · pandas · numpy · matplotlib
 
 ---
 
+## Key Findings
+
+- Behavioral engagement exhibits structured clustering rather than random dispersion.
+- The first principal component captures overall interaction intensity.
+- Gaussian Mixture Models reveal overlapping probabilistic segments.
+- Isolation Forest identifies high-intensity edge cases concentrated in extreme PCA regions.
+- Behavioral outliers are more visible under density-based anomaly modeling.
+
+---
+
 ## Future Extensions
 
 - Isolation Forest anomaly comparison  
