@@ -48,7 +48,8 @@ This allows:
 
 Posterior probability distributions were analyzed to detect anomaly-like behavior patterns.
 
-INSERT IMAGE 
+<img width="703" height="547" alt="GMMclusters" src="https://github.com/user-attachments/assets/4150ff84-212b-4516-a782-942d052082f5" />
+
 
 ## Isolation Forest Comparison
 
@@ -56,8 +57,8 @@ To compare clustering-based segmentation with density-based anomaly detection, I
 
 This provides an alternative perspective on behavioral outliers under a different modeling assumption.
 
+<img width="703" height="547" alt="IsolationForestAnomalyDetection" src="https://github.com/user-attachments/assets/c4c6f269-fb2b-494d-abdc-9805b8859141" />
 
-<img width="1980" height="1499" alt="isolation_forest_pca" src="https://github.com/user-attachments/assets/7196c222-7e28-47d8-ae4d-523f92b65b7b" />
 
 ---
 
