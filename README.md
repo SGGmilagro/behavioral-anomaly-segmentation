@@ -1,7 +1,7 @@
 # Behavioral Anomaly Segmentation  
 PCA + Gaussian Mixture Modeling Framework  
-I compared probabilistic clustering with density-based anomaly detection to evaluate behavioral outlier consistency across modeling assumptions.
 ---
+I compared probabilistic clustering with density-based anomaly detection to evaluate behavioral outlier consistency across modeling assumptions.
 
 ## Overview
 
