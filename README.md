@@ -1,6 +1,6 @@
 # Behavioral Anomaly Segmentation  
 PCA + Gaussian Mixture Modeling Framework  
-
+I compared probabilistic clustering with density-based anomaly detection to evaluate behavioral outlier consistency across modeling assumptions.
 ---
 
 ## Overview
@@ -47,6 +47,17 @@ This allows:
 - More realistic behavioral modeling compared to hard clustering  
 
 Posterior probability distributions were analyzed to detect anomaly-like behavior patterns.
+
+INSERT IMAGE 
+
+## Isolation Forest Comparison
+
+To compare clustering-based segmentation with density-based anomaly detection, Isolation Forest was applied to the same feature space.
+
+This provides an alternative perspective on behavioral outliers under a different modeling assumption.
+
+
+<img width="1980" height="1499" alt="isolation_forest_pca" src="https://github.com/user-attachments/assets/7196c222-7e28-47d8-ae4d-523f92b65b7b" />
 
 ---
 
