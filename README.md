@@ -19,6 +19,15 @@ Rather than relying on labeled outcomes, this approach models latent structure w
 This framework is applicable to cybersecurity (user behavior analytics), fraud detection, risk modeling, and anomaly detection environments.
 
 ---
+## Data
+
+Dataset: Public engagement interaction dataset (CSV format)
+
+Location:
+data/engagement_behavior_data.csv
+
+The dataset contains interaction-level metrics including reactions, comments, shares, and engagement attributes.
+
 
 ## Methodology
 
